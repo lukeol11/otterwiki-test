@@ -30,3 +30,9 @@ via [github](https://github.com/redimp/otterwiki/issues).
 [sample_icon.jpg](./sample_icon.jpg)
 
 this is a new user editing
+
+
+
+| Column 1 | Column 2 | Column 3 |
+| -------- | -------- | -------- |
+| Text     | Text     | Text     |
