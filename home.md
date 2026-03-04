@@ -31,7 +31,7 @@ via [github](https://github.com/redimp/otterwiki/issues).
 
 this is a new user editing
 
-
+anonoymus edit
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
